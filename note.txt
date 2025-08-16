@@ -1,0 +1,10 @@
+Sito web Omar
+
+- Tema scuro
+- Pagina iniziale con Omar in foto + Testo introduttivo con slogan + dragoni se possibile
+- Pagina di presentazione
+- Lista dei pacchetti
+- Come lavoro: “seguito ogni step”, passi iniziali e come funziona l’anamnesi iniziale (fai delle foto con l’obiettivo, ti faccio un video in cui ti spiego cosa bisogna fare e l’idea di cosa fare assieme alla scheda. In più ci saranno i link con i vari esercizi su YouTube. A seconda del pacchetto, ogni tot settimane, loro caricano i video e risponde con un video in cui corregge)
+- Faq
+- Form di invio dei dati
+- Footer
